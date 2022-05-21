@@ -1,8 +1,14 @@
-# React Template Lite
+# Process Killer
 
-## Main Stack
+A user friendly Developer Tool for killing processes
 
-- Framework: `React 18` `NextJS` `TypeScript`
-- CSS: `TailwindCSS` with `tailwind-iconify`
-- Lint & Format: `ESLint` + `Prettier`
-- DX: `unplugin-auto-imports`
+## Features
+- 🍎 Multi Platform (Mac and Linux coming soon)
+- 💻 Filter By port
+- 🌙 Dark Mode
+- 🌐 support Chinese and English
+
+## Coming Soon
+- Multiple Selection
+- Global shortcuts
+- Group displayed processes
