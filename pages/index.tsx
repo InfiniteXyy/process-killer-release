@@ -8,6 +8,7 @@ export default function Index() {
     <>
       <Head>
         <title>Process Killer</title>
+        <meta name="description" content="A user friendly Developer Tool for killing processes." />
       </Head>
       <main className="text-center">
         <Image src="/logo.png" alt="logo" height={40} width={40} />
